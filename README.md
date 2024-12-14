@@ -1,8 +1,11 @@
 Next Fit Memory Allocation Simulator
+
 Project Description
+
 This project is a Next Fit Memory Allocation Simulator implemented in Java. It demonstrates how memory allocation works using the Next Fit algorithm, where processes are allocated to memory blocks starting from the last allocated position. It includes a graphical user interface (GUI) for interactive simulations and visualizes the state of memory dynamically.
 
 Key Features
+
 Dynamic Memory Allocation: Simulates memory allocation and deallocation using the Next Fit algorithm.
 Interactive GUI: Users can input block sizes, request allocations, and see the changes in real time.
 Graphical Visualization: Memory blocks are visually represented in color (allocated/free states).
@@ -10,7 +13,9 @@ Input Validation: Ensures all inputs are valid and handled properly.
 Technologies Used
 Programming Language: Java
 Frameworks: Java Swing for GUI
-Tools:
+
+Tools
+
 IntelliJ IDEA / Eclipse (IDE for development)
 Git for version control
 Data Structures: ArrayList for managing memory blocks
